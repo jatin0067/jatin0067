@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+## I am Jatin, currently pursuing my b.tech.
+## I want to develop some new, innovative projects which will strengthen my practical knowledge
+## I have worked previously on some projects such as a water calamity detection app and a fake news detection website.
+## I hopefully want to collabarate with other enthusiastic individuals to create innovative stuff.
+## Tschüss 😎
 <!--
 **jatin0067/jatin0067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
